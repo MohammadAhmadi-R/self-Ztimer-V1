@@ -16,3 +16,5 @@ python main.py
   /settimer (number)
   /timertext (text)'
 "
+
+>edit line 17 , 18 , 19
