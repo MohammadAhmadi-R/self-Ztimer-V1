@@ -3,7 +3,16 @@
 >in cPanel host
 link python
 pip install pyrogram
-pip install apscheduler
-pip install schedule
+
 cd ..
+
 python main.py
+
+
+/help = "
+  /start [id]
+  /stop
+  /ping
+  /settimer (number)
+  /timertext (text)'
+"
